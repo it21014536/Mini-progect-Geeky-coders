@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Project-course</string>
+    <string name="all_classes">All classes</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="mathematics">mathematics</string>
+    <string name="biology">Biology</string>
+    <string name="physics">physics</string>
+
+    <string name="gender1">dropDownMenuExample</string>
+    <string name="lesson_1">Lesson 1</string>
+    <string name="join">join</string>
+    <string name="lesson_4">lesson 4</string>
+    <string name="chemistry_grade_12">Chemistry-Grade 12</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="chemdes">chemdes</string>
+    <string name="select_grade">Select grade</string>
+    <string name="grade_12">Grade 12</string>
+    <string name="grade_13">grade 13</string>
+    <string name="lesson_5">lesson 5</string>
+    <string name="all_lessons">All lessons</string>
+    <string name="lesson_2">lesson 2</string>
+    <string name="lesson_3">lesson 3</string>
+    <string name="register">Register</string>
+    <string name="first_name">First name</string>
+    <string name="student_name">Student name</string>
+    <string name="last_name">Last name</string>
+    <string name="student_e_mail">Student E-mail</string>
+    <string name="gender">Gender</string>
+    <string-array name="gender">
+        <item>Female</item>
+        <item>Male</item>
+
+    </string-array>
+
+
+    //page3-1
+
+    <string-array name="chemclasses">
+        <item>Mr.Dinesh uthugala</item>
+        <item>Mrs. Klara</item>
+        <item>Mrs.Gia</item>
+
+
+    </string-array>
+
+    <string-array name="chemclassesdes">
+        <item>Monday 2.00p.m-4.00 p.m.</item>
+        <item>Tuesday 4.00p.m-5.00 p.m.</item>
+        <item>Friday 9.00p.m-11.00 p.m.</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title">Title</string>
+    <string name="conducted_by">Conducted by</string>
+    <string name="fee">Fee</string>
+    <string name="time">Time</string>
+    <string name="phone">Phone</string>
+    <string name="new_class">New Class</string>
+    <string name="message">Message*</string>
+    <string name="add_class">Add class</string>
+</resources>

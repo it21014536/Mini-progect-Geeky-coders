@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121643212656",
+    "project_id": "mini-project-course-71b85",
+    "storage_bucket": "mini-project-course-71b85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121643212656:android:d7c9707950216cc468b9b5",
+        "android_client_info": {
+          "package_name": "com.example.project_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121643212656-oair28u44kgauraand5e8urjcdb2rt0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5OPNgYMm-iyQi746YuP_4a1Oel0OiKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121643212656-oair28u44kgauraand5e8urjcdb2rt0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
